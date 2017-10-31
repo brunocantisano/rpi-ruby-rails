@@ -1,6 +1,6 @@
 # Ruby On Rails
 
-![docker_logo](https://raw.githubusercontent.com/brunocantisano/rpi-rails/master/files/docker.png)![docker_rails_logo](https://raw.githubusercontent.com/brunocantisano/rpi-rails/master/files/logo-rails.png)![docker_paperinik_logo](https://raw.githubusercontent.com/brunocantisano/rpi-rails/master/files/docker_paperinik_120x120.png)
+![docker_logo](https://raw.githubusercontent.com/brunocantisano/rpi-rails/master/files/docker.png)![docker_rails_logo](https://raw.githubusercontent.com/brunocantisano/rpi-rails/master/files/logo-rubyonrails.png)![docker_paperinik_logo](https://raw.githubusercontent.com/brunocantisano/rpi-rails/master/files/docker_paperinik_120x120.png)
 
 This Docker container implements a Ruby On Rails container.
 
