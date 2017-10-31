@@ -12,4 +12,4 @@ RUN apt-get update \
 ENV HOME /home
 WORKDIR /home
 
-CMD["rails s -b 0.0.0.0"]
+CMD ["rails s -b 0.0.0.0"]
