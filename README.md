@@ -39,4 +39,4 @@ The Ruby on Rails instance starts listening on the default port of 3000 on the c
 ```
 ----
 
-3) Then, access it via `http://localhost:9415` in a browser.  Replace `localhost` in `ROOT_URL` with your own domain name if you are hosting at your own domain.
+3) Then, access it via `http://localhost:9425` in a browser.  Replace `localhost` in `ROOT_URL` with your own domain name if you are hosting at your own domain.
