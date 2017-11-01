@@ -26,7 +26,7 @@ The Ruby on Rails instance starts listening on the default port of 3000 on the c
 1) If you'd like to create folder, you can run with interative mode:
 ```bash
     docker run -v /media/usbraid/docker/ruby:/home \
-               -it paperinik/rpi-rails rails new dev
+               -it paperinik/rpi-rails rails new myapp
 ```
 ----
 
@@ -34,7 +34,7 @@ The Ruby on Rails instance starts listening on the default port of 3000 on the c
 ```bash
     docker run --name rubyonrails 
                -p 9425:3000 \
-               -v /media/usbraid/docker/ruby/dev:/home \
+               -v /media/usbraid/docker/ruby/myapp:/home \
                -d paperinik/rpi-rails 
 ```
 ----
